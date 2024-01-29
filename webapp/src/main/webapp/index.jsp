@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>This is OUR PROJECT DEVOPS after Build with Docker </h1>
+   <h1>This is our project devops using docker Container </h1>
 
   
 </form>
